@@ -15,7 +15,7 @@
 10. if no, exit the game
 
 test values/outputs
-to test our program, we ran various scenarios
+to test the program, I ran various scenarios
   1) filling the board with no winning cases 
     output: displayed the filled board, a statement indicating it's a tie, asks if we would like to play again
   2) vertical/horizontal/diagonal combination win
@@ -29,7 +29,7 @@ to test our program, we ran various scenarios
     output: clears X's and O's and asks the alternate player
 all outputs have been verified
 
-limitations
+limitations:
 players can only play on a 4 by 4 grid space, entering numbers less than 1 or greater than 16 will not result anything
 */
 
